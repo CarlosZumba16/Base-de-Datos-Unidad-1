@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tZ9zyQiErF-yx-rjLUin-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="gastos&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="120" x="580" y="120" as="geometry" />
+          <mxGeometry height="40" width="110" x="580" y="120" as="geometry" />
         </mxCell>
         <mxCell id="tZ9zyQiErF-yx-rjLUin-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="1: N" vertex="1">
           <mxGeometry height="30" width="60" x="55" y="210" as="geometry" />
